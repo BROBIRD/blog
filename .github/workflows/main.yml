@@ -28,7 +28,7 @@ jobs:
 
       - name: 构建静态页面
         run: |
-          npm run g
+          hexo g
 
       # - name: 你也可以在这里执行更多Linux命令
       #   run: |
