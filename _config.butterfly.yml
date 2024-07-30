@@ -432,6 +432,7 @@ disqusjs:
   apikey: qDpXqb6dSILNuvnsnxlVO96GqbNoYvqpEzaAr4cKGdEwBVLd18ma3jH0yLVAKXKm
   option:
     api: https://disqusjs-proxy-rose.vercel.app/
+    sitename: BROBIRD's Blog
 
 # livere (來必力)
 # https://www.livere.com/
